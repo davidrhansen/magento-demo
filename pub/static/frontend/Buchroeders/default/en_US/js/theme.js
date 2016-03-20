@@ -1,0 +1,1 @@
+/Users/davidhansen/Projects/Magento/vendor/magento/theme-frontend-blank/web/js/theme.js
